@@ -3,4 +3,4 @@
 
 ● Utilized SCSS to write clean and organized CSS code with variables, mixings, and nesting for better maintainability.
 
-● Enhanced the user experience with subtle animations, hover effects, and smooth scrolling.
+● Enhanced the user experience with subtle animations, hover effects, and smooth scrollings.
